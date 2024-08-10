@@ -1,5 +1,6 @@
 **Nxt Watch**
-publish URL: https://nxtwatch0gk.ccbp.tech/
+
+Publish link: https://nxtwatch0gk.ccbp.tech/
 
 ### Important Note
 
